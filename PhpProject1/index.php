@@ -6,11 +6,14 @@ and open the template in the editor.
 -->
 <html>
     <head>
-        <title>Subir a Open Shift</title>
         <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title></title>
     </head>
     <body>
-        <div>Primer Intento Para Subir a Open Shift</div>
+        <?php
+                echo "<p>hola mundo</p>";
+                 echo "<p>hola fer</p>"
+        
+        ?>
     </body>
 </html>
